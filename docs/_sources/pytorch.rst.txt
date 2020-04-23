@@ -1,0 +1,7 @@
+pytorch module
+==============
+
+.. automodule:: pytorch
+   :members:
+   :undoc-members:
+   :show-inheritance:
